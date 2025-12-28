@@ -57,6 +57,7 @@ Amplifies low-level stereo audio signals to speaker level.
 **Notes**
 - Adding a 10 µF capacitor between pins 1–8 sets LM386 to maximum gain
 - Designed for **8 Ω speakers**
+
 ![PCB Design](image/SES.jpg)
 ---
 
@@ -71,6 +72,7 @@ Provides visual feedback of audio signal levels.
 
 **Protection**
 - 1.2 kΩ current-limiting resistor per LED
+
 ![PCB Design](image/VUMETRE.jpg)
 ---
 
