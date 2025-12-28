@@ -42,7 +42,7 @@ The main RF section processes both **FM and AM signals**.
 - AM antenna: Ferrite rod antenna (L2)
 - FM IF filters: Y2, Y3 (10.7 MHz)
 - Antenna protection: 1N4148 diodes (D11, D12)
-![PCB Design](images/RADYO.jpg)
+![PCB Design](https://raw.githubusercontent.com/TeknoTrek/DIY-AM-FM-Radio-Receiver-with-CXA1019S/main/images/RADYO.jpg)
 ---
 
 ### 2. Audio Amplifier Section (2 × LM386)
