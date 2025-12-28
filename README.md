@@ -57,7 +57,7 @@ Amplifies low-level stereo audio signals to speaker level.
 **Notes**
 - Adding a 10 µF capacitor between pins 1–8 sets LM386 to maximum gain
 - Designed for **8 Ω speakers**
-
+![PCB Design](image/SES.jpg)
 ---
 
 ### 3. Stereo VU Meter Section (TA7666P)
@@ -71,7 +71,7 @@ Provides visual feedback of audio signal levels.
 
 **Protection**
 - 1.2 kΩ current-limiting resistor per LED
-
+![PCB Design](image/VUMETRE.jpg)
 ---
 
 ### 4. Power Supply & Regulation
@@ -97,7 +97,8 @@ Ensures stable operation of RF and audio stages.
 - **Tuning**
 - **AM / FM mode switch**
 - **Volume (dual potentiometer)**
-
+![PCB Design](image/PCB.jpg)
+![PCB Design](image/pcb-02.jpg)
 ---
 
 ## 🧲 PCB Production (DIY Friendly)
@@ -108,7 +109,8 @@ Mirror-image PCB layouts are provided for:
 
 ⚠️ **Important:**  
 Print at **1:1 scale** to ensure correct IC pin alignment.
-
+![PCB Design](image/PCB-Black-.jpg)
+![PCB Design](image/PCB-Top.jpg)
 ---
 
 ## 📂 Repository Structure
