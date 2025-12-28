@@ -10,6 +10,7 @@ https://youtu.be/hSCuRKkPxRc
 https://www.youtube.com/@TeknoTrek
 
 ---
+![PCB Design](image/Stereo-FM-AM-Radio-Receiver.jpg)
 
 ## 📌 Project Overview
 
