@@ -118,5 +118,26 @@ Print at **1:1 scale** to ensure correct IC pin alignment.
 ![PCB Design](image/PCB-Top.jpg)
 ---
 
-## 📂 Repository Structure
+
+## 💬 Questions or Feedback?
+Feel free to open an issue or leave a comment on the [YouTube video](https://youtu.be/TuUUNz7IGRk). I’d love to hear your thoughts and help if you get stuck!
+
+## 📡 Tags & Keywords (for SEO)
+`AM radio receiver`, `FM radio project`, `Sony CXA1019S`, `build a radio`, `DIY electronics`, `PCB design`, `KiCad project`, `radio circuit`, `home radio`, `electronics tutorial`, `radio IC`, `radio PCB`, `TeknoTrek`, `radio receiver project`, `electronics for beginners`
+
+## ❓ FAQ  
+**Q: Can I modify the PCB for better performance?**  
+A: Yes! The KiCad files are fully editable. Optimize traces or add filters as needed.  
+
+**Q: Where can I buy the CXA1019S IC?**  
+A: Check AliExpress, eBay, or local electronics stores.  
+
+## 🌟 Support the Project  
+- **Give a ⭐ on GitHub** if you find this useful!  
+- **Subscribe to [TeknoTrek on YouTube](https://www.youtube.com/@TeknoTrek)** for more DIY electronics projects.  
+- **Share your build** in the Discussions section!  
+
+📢 **Disclaimer**: This is an open-source project. Use at your own risk.  
+
+#electronics #diy #radio #cxA1019s #pcbdesign #kicad #amfmradio #engineering #teknopatik  
 
