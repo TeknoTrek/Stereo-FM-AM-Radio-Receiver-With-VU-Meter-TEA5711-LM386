@@ -1,4 +1,4 @@
-# Stereo FM / AM Radio Receiver
+# Stereo FM / AM Radio Receiver With VU Meter (TEA5711 + LM386)
 
 A fully analog **Stereo FM / AM Radio Receiver** project based on the **TEA5711** radio IC, featuring **dual LM386 audio amplifiers** and a **10-LED stereo VU meter**.  
 This project has been **personally tested and successfully assembled** on a working prototype.
