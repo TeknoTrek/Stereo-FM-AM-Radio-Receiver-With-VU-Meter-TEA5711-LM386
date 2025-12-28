@@ -10,6 +10,7 @@ https://youtu.be/hSCuRKkPxRc
 https://www.youtube.com/@TeknoTrek
 
 ---
+![PCB Design](image/Stereo-FM-AM-Radio-Receiver.jpg)
 
 ## 📌 Project Overview
 
@@ -42,7 +43,7 @@ The main RF section processes both **FM and AM signals**.
 - AM antenna: Ferrite rod antenna (L2)
 - FM IF filters: Y2, Y3 (10.7 MHz)
 - Antenna protection: 1N4148 diodes (D11, D12)
-
+![PCB Design](image/RADYO.jpg)
 ---
 
 ### 2. Audio Amplifier Section (2 × LM386)
@@ -58,6 +59,7 @@ Amplifies low-level stereo audio signals to speaker level.
 - Adding a 10 µF capacitor between pins 1–8 sets LM386 to maximum gain
 - Designed for **8 Ω speakers**
 
+![PCB Design](image/SES.jpg)
 ---
 
 ### 3. Stereo VU Meter Section (TA7666P)
@@ -72,6 +74,7 @@ Provides visual feedback of audio signal levels.
 **Protection**
 - 1.2 kΩ current-limiting resistor per LED
 
+![PCB Design](image/VUMETRE.jpg)
 ---
 
 ### 4. Power Supply & Regulation
@@ -98,6 +101,10 @@ Ensures stable operation of RF and audio stages.
 - **AM / FM mode switch**
 - **Volume (dual potentiometer)**
 
+![PCB Design](image/PCB.jpg)
+
+![PCB Design](image/pcb-02.jpg)
+
 ---
 
 ## 🧲 PCB Production (DIY Friendly)
@@ -108,8 +115,23 @@ Mirror-image PCB layouts are provided for:
 
 ⚠️ **Important:**  
 Print at **1:1 scale** to ensure correct IC pin alignment.
-
+![PCB Design](image/PCB-Black-.jpg)
+![PCB Design](image/PCB-Top.jpg)
 ---
 
-## 📂 Repository Structure
+
+## 💬 Questions or Feedback?
+Feel free to open an issue or leave a comment on the [YouTube video](https://youtu.be/hSCuRKkPxRc). I’d love to hear your thoughts and help if you get stuck!
+
+## 📡 Tags & Keywords (for SEO)
+'fm radio', 'am fm radio', 'stereo radio', 'radio receiver', 'diy radio', 'electronics', 'audio amplifier', 'tea5711', 'lm386', 'vu meter', 'audio electronics', 'rf electronics', 'analog electronics', 'pcb design', 'soldering', 'diy electronics', 'home electronics'
+
+## 🌟 Support the Project  
+- **Give a ⭐ on GitHub** if you find this useful!  
+- **Subscribe to [TeknoTrek on YouTube](https://www.youtube.com/@TeknoTrek)** for more DIY electronics projects.  
+- **Share your build** in the Discussions section!  
+
+📢 **Disclaimer**: This is an open-source project. Use at your own risk.  
+
+#electronics #diy #radio #TEA5711 #pcbdesign #kicad #amfmradio #engineering #teknotrek  
 
