@@ -99,8 +99,11 @@ Ensures stable operation of RF and audio stages.
 - **Tuning**
 - **AM / FM mode switch**
 - **Volume (dual potentiometer)**
+
 ![PCB Design](image/PCB.jpg)
+
 ![PCB Design](image/pcb-02.jpg)
+
 ---
 
 ## 🧲 PCB Production (DIY Friendly)
