@@ -120,17 +120,10 @@ Print at **1:1 scale** to ensure correct IC pin alignment.
 
 
 ## 💬 Questions or Feedback?
-Feel free to open an issue or leave a comment on the [YouTube video](https://youtu.be/TuUUNz7IGRk). I’d love to hear your thoughts and help if you get stuck!
+Feel free to open an issue or leave a comment on the [YouTube video](https://youtu.be/hSCuRKkPxRc). I’d love to hear your thoughts and help if you get stuck!
 
 ## 📡 Tags & Keywords (for SEO)
-`AM radio receiver`, `FM radio project`, `Sony CXA1019S`, `build a radio`, `DIY electronics`, `PCB design`, `KiCad project`, `radio circuit`, `home radio`, `electronics tutorial`, `radio IC`, `radio PCB`, `TeknoTrek`, `radio receiver project`, `electronics for beginners`
-
-## ❓ FAQ  
-**Q: Can I modify the PCB for better performance?**  
-A: Yes! The KiCad files are fully editable. Optimize traces or add filters as needed.  
-
-**Q: Where can I buy the CXA1019S IC?**  
-A: Check AliExpress, eBay, or local electronics stores.  
+'fm radio', 'am fm radio', 'stereo radio', 'radio receiver', 'diy radio', 'electronics', 'audio amplifier', 'tea5711', 'lm386', 'vu meter', 'audio electronics', 'rf electronics', 'analog electronics', 'pcb design', 'soldering', 'diy electronics', 'home electronics'
 
 ## 🌟 Support the Project  
 - **Give a ⭐ on GitHub** if you find this useful!  
@@ -139,5 +132,5 @@ A: Check AliExpress, eBay, or local electronics stores.
 
 📢 **Disclaimer**: This is an open-source project. Use at your own risk.  
 
-#electronics #diy #radio #cxA1019s #pcbdesign #kicad #amfmradio #engineering #teknopatik  
+#electronics #diy #radio #TEA5711 #pcbdesign #kicad #amfmradio #engineering #teknotrek  
 
